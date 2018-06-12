@@ -10,7 +10,7 @@ public class TestForm {
 	@NotBlank(message="名前は必須です。")
 	private String name;
 
-	@NotNull(message="ポイントは必須です。わーーーーー")
+	@NotNull(message="ポイントは必須です。わーーーーーーーー")
 	@Max(value=100, message="ポイントは100以下です。")
 	private Integer point;
 

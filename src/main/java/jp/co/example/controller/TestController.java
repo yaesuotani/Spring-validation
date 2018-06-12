@@ -26,5 +26,5 @@ public class TestController {
 
 		return "top";
 	}
-inosedesu
+//inosedesu
 }
